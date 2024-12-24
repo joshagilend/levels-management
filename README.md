@@ -13,5 +13,5 @@ levels management for tech
 * level 3 - manager
 * level 4 - senior manager
 * level 5 - director
-* level 6 = vp
+* level 6 - vp
 * level 7 - executive suite
